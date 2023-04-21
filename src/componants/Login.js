@@ -49,7 +49,7 @@ const Login = () => {
 
         <Button variant="contained" fullWidth>
           Register
-        </Button>
+        </Button>``
         <Box
         sx={{
           p: 1,
