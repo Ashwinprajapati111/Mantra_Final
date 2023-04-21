@@ -10,7 +10,7 @@
 :root {
 	--mainColor: #29335c;
 	--mainColorLight: #5767aa;
-	--secondaryColor: #10c5e5;
+	--secondaryColor: #bbc7f6;
 	--textColor: #eee;
 }
 
@@ -94,9 +94,9 @@ nav {
     margin-left: auto;
 }
 .mybtn{
-    background-color: #4CAF50; /* Green */
+    background-color: #bbc7f6; /* Green */
     border: none;
-    color: white;
+    color: #29335c;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -131,6 +131,6 @@ nav {
 }
 .logsmbtn:hover{
 	cursor: pointer;
-	color: #01869a;
+	color: #3b4c8f;
 }
 /* login ends*/

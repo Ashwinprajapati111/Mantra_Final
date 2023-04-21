@@ -54,7 +54,7 @@ const Login = () => {
           }}
         >
           <Typography variant="body2" gutterBottom>
-            Already registered ? <a className="logsmbtn">login</a>
+            Not registered ? <a className="logsmbtn">Sign up</a>
           </Typography>
         </Box>
       </div>
